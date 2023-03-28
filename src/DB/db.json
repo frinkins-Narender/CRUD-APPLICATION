@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "name": "Narender mahor",
+      "email": "narender.mahor46@gmail.com",
+      "phone": "8384080856",
+      "message": "full stack developer",
+      "id": 5
+    },
+    {
+      "name": "deepanshu",
+      "email": "narender.mahor46@gmail.com",
+      "phone": "09541210216",
+      "message": "intern",
+      "id": 8
+    },
+    {
+      "name": "deep",
+      "email": "deep@gmail.com",
+      "phone": "0954 121 0216",
+      "message": "graphic designer & web developer",
+      "id": 9
+    }
+  ]
+}
